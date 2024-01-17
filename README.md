@@ -22,9 +22,9 @@ Studenite-DSA aims to foster a collaborative learning environment. Join us in th
 
 🔗 Connect with Us:
 
-Join our Whatsapp Comunity [StudeNite](https://whatsapp.com/channel/0029VaKMRN13QxS701yFfW1n)
-Join our Telegram Comunity [StudeNite](https://t.me/studenite)
-Follow us on Instagram [studenite_1](https://www.instagram.com/studenite_1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-Subscribe our Youtube Channel [StudeNite](https://www.youtube.com/@StudeNite-eb2qg)
+1. Join our Whatsapp Comunity [StudeNite](https://whatsapp.com/channel/0029VaKMRN13QxS701yFfW1n)
+2. Join our Telegram Comunity [StudeNite](https://t.me/studenite)
+3. Follow us on Instagram [studenite_1](https://www.instagram.com/studenite_1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+4. Subscribe our Youtube Channel [StudeNite](https://www.youtube.com/@StudeNite-eb2qg)
 
 Happy coding! 🚀💻✨

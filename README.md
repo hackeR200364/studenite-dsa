@@ -12,9 +12,10 @@ Studenite-DSA is a collaborative space for developers to showcase their problem-
 
 👥 How to Contribute:
 1. Create a new branch for your solution.
-2. Add your solution in the appropriate folder.
-3. Provide clear documentation and explanations.
-4. Submit a pull request!
+2. Make a folder for your solutions.
+3. Add your solution in the appropriate folder.
+4. Provide clear documentation and explanations.
+5. Submit a pull request!
 
 🌟 Let's Learn and Grow Together!
 

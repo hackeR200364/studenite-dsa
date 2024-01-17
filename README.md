@@ -11,10 +11,10 @@ Studenite-DSA is a collaborative space for developers to showcase their problem-
 3. Learning Opportunity: Explore various approaches to problem-solving and learn from your peers.
 
 👥 How to Contribute:
-1. Create a new branch for your solution.
-2. Make a folder for your solutions for appropriate question.
+1. Create a new branch for your solution names {(YOUR_NAME)_(QUESTION_NUMBER)}.
+2. Your file name should be {(QUESTION_NUMBER)_(QUESTION_RELATES).(LANGUAGE)}. (e.g Q1_Send.c & Q1_Rcv.c)
 3. Add your solution in the appropriate folder.
-4. Provide clear documentation and explanations.
+4. Provide clear documentation and explanations with making a text file.
 5. Submit a pull request!
 
 - Note: If you upload your solution in an incorrect directory, your solution will be deleted without any warnings.
